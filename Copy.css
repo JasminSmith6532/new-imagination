@@ -1,0 +1,33 @@
+.AboutUs {
+  margin-left: 40px;
+  margin-right: 40px;
+
+}
+
+.Philosophy {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.Help {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.Thanks {
+  font-family: 'Lobster', cursive;
+  font-size: 60px;
+  text-align: center;
+  text-shadow:  2px 2px 8px Purple;
+}
+
+.MaskPolicy {
+  color:#ffffff;
+  margin-left: 40px;
+  margin-right: 40px;
+  font-size:21px;
+  text-align: center;
+  background-color:#705E78;
+  padding: 10px;
+  border-radius: 20px;
+margin-top: 50px;
